@@ -1,12 +1,14 @@
 # Summary
-I'm passionate about solving complex data problems with pragmatic solutions by building effective and cohesive organizations and communities of developers. I like learning and working at any part of the stack, from devops to analytics and everything in between.
-- Have built multiple teams and organizations from single digit developers to the acquisition and beyond
+I'm passionate about solving complex data problems with pragmatic solutions by building effective and cohesive organizations of developers. I like learning and working at any part of the stack, from devops to analytics and everything in between.
+- I've built high throughput and reliable infrastructure in a plethora of languages
+- I've multiple teams and organizations from single digit developers to the acquisition and beyond
+
 
 You can reach me at parnaudo@gmail.com, [Twitter](https://twitter.com/PaulArnaudo), or [LinkedIn](https://www.linkedin.com/in/paul-arnaudo/).
 
 ## [Kinsa Health](https://kinsahealth.com/)
 ### Technologies: Python | AWS (Amazon Web Services) | Airflow | SQL
-Rewrote some of the core ingestion and illness processing pipelines. Concurrently built a robust data org including a data engineering team, epidemiologist-focused analyst team and a data science team. Love building a surveillance system for illness while also finding cool uses for our aggregated illness data.
+Rewrote some of the core ingestion and illness processing pipelines. Concurrently built a robust data org including a data engineering team, epidemiologist-focused analyst team and a data science team. Love building a surveillance system for illness while also finding cool uses for our aggregated illness data. The systems we built 5Xed Kinsa's reoccuring revenue from data to almost $5 million. 
 ### VP of Engineering, Data <i>(Nov 2022 - Present)</i>
 
 ### Director of Engineering, Data <i>(July 2020 - Nov 2022)</i>
@@ -35,7 +37,7 @@ A foray into the weird and wild world of mobile advertising. I was a full stack 
 ### Technologies: R | SQL | PHP | jQuery
 Created a model for a social network for physicians with multiple edge and node types. Developed methods to automate mining techniques where required. Performed network analysis to generate target lists of network-defined prominent physicians. Aided in the development of an application to display and manipulate networks. 
 ### Data Science Intern <i>(Nov 2011 - Sep 2012)</i>
-
+<!-- 
 ## [Lawrence Livermore National Lab](https://www.llnl.gov/)
 ### Technologies: PHP | LassoScript | SQL | jQuery
 Duties consisted of building and maintaining various operational applications, including a process improvement application, a student presentation application and a software risk grading application
@@ -70,7 +72,7 @@ Worked as a contractor for the Department of Homeland Security, compiling and ma
 ### Technologies: HTML 
 Served as webmaster of the Falls Church News Press, the local newspaper; Updated the site on a weekly basis.
 ### Webmaster <i>(Sep 2004 - Jun 2005)</i>
-
+ -->
 
 
 
