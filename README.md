@@ -11,8 +11,13 @@ Rewrote some of the core ingestion and illness processing pipelines. Concurrentl
 
 ### Director of Engineering, Data <i>(July 2020 - Nov 2022)</i>
 
-## [Euclid](https://www.wework.com/newsroom/wework-acquires-spatial-analytics-leader-euclid)
+## [WeWork](https://www.wework.com/)
 ### Technologies: Python | Scala | Go | AWS (Amazon Web Services) | Airflow | Terraform
+Navigated the chaos of pre and post IPO-attempt at WeWork along with the subsequent global pandemic without suffering serious attrition. The Euclid wifi tech ended up having some lasting usefullness in the post-pandemic WeWork technology stack as it was used to detect floor occupancy levels
+### Senior Engineering Manager, Presence <i>(Jan 2019 - Jul 2020)</i>
+
+## [Euclid](https://www.wework.com/newsroom/wework-acquires-spatial-analytics-leader-euclid)
+### Technologies: Python | Scala | AWS (Amazon Web Services) | Airflow | Terraform
 Went from software engineering to engineering leadership at Euclid through the trials and tribulations of trying to sell wifi analytics products. Eventually ended up on the leadership team where I built and maintained a wonderful engineering organization that was center to getting acquired by WeWork.
 ### VP of Engineering <i>(Nov 2017 - Jan 2019)</i>
 ### Director of Engineering <i>(Jan 2017 - Nov 2017)</i>
