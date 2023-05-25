@@ -2,6 +2,7 @@
 I'm passionate about solving complex data problems with pragmatic solutions by building effective and cohesive organizations of developers. I like learning and working at any part of the stack, from devops to analytics and everything in between.
 - I've built high throughput and reliable infrastructure in a plethora of languages
 - I've multiple teams and organizations from single digit developers to the acquisition and beyond
+- I've managed pretty teams of pretty much every type of developer and love the challenge of getting all the pieces to work together
 
 
 You can reach me at parnaudo@gmail.com, [Twitter](https://twitter.com/PaulArnaudo), or [LinkedIn](https://www.linkedin.com/in/paul-arnaudo/).
