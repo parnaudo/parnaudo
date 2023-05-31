@@ -10,9 +10,9 @@ You can reach me at parnaudo@gmail.com, [Twitter](https://twitter.com/PaulArnaud
 ## [Kinsa Health](https://kinsahealth.com/)
 ### Technologies: Python | AWS (Amazon Web Services) | Airflow | SQL
 Rewrote some of the core ingestion and illness processing pipelines. Concurrently built a robust data org including a data engineering team, epidemiologist-focused analyst team and a data science team. Love building a surveillance system for illness while also finding cool uses for our aggregated illness data. The systems we built 5Xed Kinsa's reoccuring revenue from data to almost $5 million. 
-### VP of Engineering, Data <i>(Nov 2022 - Present)</i>
+#### VP of Engineering, Data <i>(Nov 2022 - Present)</i>
 
-### Director of Engineering, Data <i>(July 2020 - Nov 2022)</i>
+#### Director of Engineering, Data <i>(July 2020 - Nov 2022)</i>
 
 ## [WeWork](https://www.wework.com/)
 ### Technologies: Python | Scala | Go | AWS (Amazon Web Services) | Airflow | Terraform
@@ -21,23 +21,23 @@ Navigated the chaos of pre and post IPO-attempt at WeWork along with the subsequ
 
 ## [Euclid](https://www.wework.com/newsroom/wework-acquires-spatial-analytics-leader-euclid)
 ### Technologies: Python | Scala | AWS (Amazon Web Services) | Airflow | Terraform
-Went from software engineering to engineering leadership at Euclid through the trials and tribulations of trying to sell wifi analytics products. Eventually ended up on the leadership team where I built and maintained a wonderful engineering organization that was center to getting acquired by WeWork.
-### VP of Engineering <i>(Nov 2017 - Jan 2019)</i>
-### Director of Engineering <i>(Jan 2017 - Nov 2017)</i>
+Went from software engineering to engineering leadership at Euclid through the trials and tribulations of trying to sell wifi analytics products. Built and maintained the ingestion and processing structure for wifi data that handled hundreds of millions of events per day. Grew into management starting with one team and then built a wonderful engineering organization that was center to getting acquired by WeWork.
+#### VP of Engineering <i>(Nov 2017 - Jan 2019)</i>
+#### Director of Engineering <i>(Jan 2017 - Nov 2017)</i>
 
-### Engineering Manager, Applications <i>(Jan 2016 - Jan 2017)</i>
+#### Engineering Manager, Applications <i>(Jan 2016 - Jan 2017)</i>
 
-### Software Engineer <i>(Jan 2015 - Jan 2016)</i>
+#### Software Engineer <i>(Jan 2015 - Jan 2016)</i>
 
 ## [AppRedeem](https://www.marketscreener.com/quote/stock/PERK-INC-23145576/news/Perk-Acquires-AppRedeem-Inc-an-Innovator-in-Mobile-Rewarded-Video-in-an-All-Stock-Transaction-21074877/)
 ### Technologies: Ruby | PHP | Redis | AWS (Amazon Web Services) | SQL | Bash
 A foray into the weird and wild world of mobile advertising. I was a full stack engineer focused primarily in data analytics and backend API development. I worked heavily in defining and tracking key business metrics along with user acquisition and classification. Additionally, I refactored numerous core processes for Apptrailers and built a functional datawarehouse. Lastly, I built out backend APIs for our messaging app Smug.
-### Full Stack Engineer <i>(Sep 2012 - Jun 2014)</i>
+#### Full Stack Engineer <i>(Sep 2012 - Jun 2014)</i>
 
 ## [Zephyr Health](https://www.anjusoftware.com/press-release/press-releases-1921/)
 ### Technologies: R | SQL | PHP | jQuery
 Created a model for a social network for physicians with multiple edge and node types. Developed methods to automate mining techniques where required. Performed network analysis to generate target lists of network-defined prominent physicians. Aided in the development of an application to display and manipulate networks. 
-### Data Science Intern <i>(Nov 2011 - Sep 2012)</i>
+#### Data Science Intern <i>(Nov 2011 - Sep 2012)</i>
 <!-- 
 ## [Lawrence Livermore National Lab](https://www.llnl.gov/)
 ### Technologies: PHP | LassoScript | SQL | jQuery
