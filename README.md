@@ -17,7 +17,7 @@ Rewrote some of the core ingestion and illness processing pipelines. Concurrentl
 ## [WeWork](https://www.wework.com/)
 ### Technologies: Python | Scala | Go | AWS (Amazon Web Services) | Airflow | Terraform
 Navigated the chaos of pre and post IPO-attempt at WeWork along with the subsequent global pandemic without suffering serious attrition. The Euclid wifi tech ended up having some lasting usefullness in the post-pandemic WeWork technology stack as it was used to detect floor occupancy levels
-### Senior Engineering Manager, Presence <i>(Jan 2019 - Jul 2020)</i>
+#### Senior Engineering Manager, Presence <i>(Jan 2019 - Jul 2020)</i>
 
 ## [Euclid](https://www.wework.com/newsroom/wework-acquires-spatial-analytics-leader-euclid)
 ### Technologies: Python | Scala | AWS (Amazon Web Services) | Airflow | Terraform
