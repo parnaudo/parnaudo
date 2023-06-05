@@ -1,27 +1,27 @@
 # Summary
 I'm passionate about solving complex data problems with pragmatic solutions by building effective and cohesive organizations of developers. I like learning and working at any part of the stack, from devops to analytics and everything in between.
 - I've built high throughput and reliable infrastructure in a plethora of languages
-- I've multiple teams and organizations from single digit developers to the acquisition and beyond
-- I've managed pretty teams of pretty much every type of developer and love the challenge of getting all the pieces to work together
-
+- I've built multiple teams and organizations from single digit developers to acquisition and beyond
+- I've managed pretty much every type of developer and love the challenge of getting all the pieces to work together
+- I love interacting cross functionally and up/down the organization from ICs to executives
 
 You can reach me at parnaudo@gmail.com, [Twitter](https://twitter.com/PaulArnaudo), or [LinkedIn](https://www.linkedin.com/in/paul-arnaudo/).
 
 ## [Kinsa Health](https://kinsahealth.com/)
 ### Technologies: Python | AWS (Amazon Web Services) | Airflow | SQL
-Rewrote some of the core ingestion and illness processing pipelines. Concurrently built a robust data org including a data engineering team, epidemiologist-focused analyst team and a data science team. Love building a surveillance system for illness while also finding cool uses for our aggregated illness data. The systems we built 5Xed Kinsa's reoccuring revenue from data to almost $5 million. 
+Joined Kinsa to scale and optimize their core ingestion and illness processing pipelines. Concurrently built a robust data org including a data engineering team, epidemiologist-focused analyst team and a data science team. Love building a surveillance system for illness while also finding cool uses for our aggregated illness data. The systems we built 10Xed Kinsa's recurring revenue from data to almost $5 million. Most of the infrastructure is written in Python.
 #### VP of Engineering, Data <i>(Nov 2022 - Present)</i>
 
 #### Director of Engineering, Data <i>(July 2020 - Nov 2022)</i>
 
 ## [WeWork](https://www.wework.com/)
 ### Technologies: Python | Scala | Go | AWS (Amazon Web Services) | Airflow | Terraform
-Navigated the chaos of pre and post IPO-attempt at WeWork along with the subsequent global pandemic without suffering serious attrition. The Euclid wifi tech ended up having some lasting usefullness in the post-pandemic WeWork technology stack as it was used to detect floor occupancy levels
+Navigated the chaos of pre and post IPO attempt at WeWork along with the subsequent global pandemic without suffering serious attrition. The Euclid wifi tech ended up having some lasting usefulness in the WeWork technology stack as being able to understand realtime occupancy was required for reopening post-pandemic. We migrated most of our Scala code to Go and all of our AWS infrastructure to K8s
 #### Senior Engineering Manager, Presence <i>(Jan 2019 - Jul 2020)</i>
 
 ## [Euclid](https://www.wework.com/newsroom/wework-acquires-spatial-analytics-leader-euclid)
 ### Technologies: Python | Scala | AWS (Amazon Web Services) | Airflow | Terraform
-Went from software engineering to engineering leadership at Euclid through the trials and tribulations of trying to sell wifi analytics products. Built and maintained the ingestion and processing structure for wifi data that handled hundreds of millions of events per day. Grew into management starting with one team and then built a wonderful engineering organization that was center to getting acquired by WeWork.
+Went from software engineering to engineering leadership at Euclid through the trials and tribulations of trying to sell wifi analytics products. Built and maintained the ingestion and processing structure for wifi data that handled hundreds of millions of events per day. Grew into management starting with one team and ending on the leadership team. We built a wonderful engineering organization that was center to getting acquired by WeWork. Euclid used Scala for ingestion and Scala/Spark/EMR for processing with Python/Flask APIs
 #### VP of Engineering <i>(Nov 2017 - Jan 2019)</i>
 #### Director of Engineering <i>(Jan 2017 - Nov 2017)</i>
 
@@ -31,12 +31,12 @@ Went from software engineering to engineering leadership at Euclid through the t
 
 ## [AppRedeem](https://www.marketscreener.com/quote/stock/PERK-INC-23145576/news/Perk-Acquires-AppRedeem-Inc-an-Innovator-in-Mobile-Rewarded-Video-in-an-All-Stock-Transaction-21074877/)
 ### Technologies: Ruby | PHP | Redis | AWS (Amazon Web Services) | SQL | Bash
-A foray into the weird and wild world of mobile advertising. I was a full stack engineer focused primarily in data analytics and backend API development. I worked heavily in defining and tracking key business metrics along with user acquisition and classification. Additionally, I refactored numerous core processes for Apptrailers and built a functional datawarehouse. Lastly, I built out backend APIs for our messaging app Smug.
+Full stack engineer focused primarily in data analytics and backend API development for a mobile advertising app (Apptrailers) and a messaging application (Smug). Along with API development, focused in fraud analysis and detection along with user acquisition monitoring and classification. In addition, created a datawarehouse for tracking access logs and large data tables using Infobright DB. Backend API for Apptrailers was primarily PHP/MySQL, Smug was written entirely with Ruby/Redis.  
 #### Full Stack Engineer <i>(Sep 2012 - Jun 2014)</i>
 
 ## [Zephyr Health](https://www.anjusoftware.com/press-release/press-releases-1921/)
 ### Technologies: R | SQL | PHP | jQuery
-Created a model for a social network for physicians with multiple edge and node types. Developed methods to automate mining techniques where required. Performed network analysis to generate target lists of network-defined prominent physicians. Aided in the development of an application to display and manipulate networks. 
+Modeled physician networks so that pharmaceutical companies could more efficiently target marketing efforts. The networks were directed, weighted  and derived from both public and proprietary data. Developed methods to automate mining techniques where required. Performed network analysis to generate target lists of network-defined prominent physicians. Aided in the development of an application to display and manipulate networks for visualization purposes. Worked primarily in PHP/MySQL and jQuery.
 #### Data Science Intern <i>(Nov 2011 - Sep 2012)</i>
 <!-- 
 ## [Lawrence Livermore National Lab](https://www.llnl.gov/)
