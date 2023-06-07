@@ -16,7 +16,7 @@ Joined Kinsa to scale and optimize their core ingestion and illness processing p
 
 ## [WeWork](https://www.wework.com/)
 ### Technologies: Python | Scala | Go | AWS (Amazon Web Services) | Airflow | Terraform
-Navigated the chaos of pre and post IPO attempt at WeWork along with the subsequent global pandemic without suffering serious attrition. The Euclid wifi tech ended up having some lasting usefulness in the WeWork technology stack as being able to understand realtime occupancy was required for reopening post-pandemic. We migrated most of our Scala code to Go and all of our AWS infrastructure to K8s
+Navigated the vicissitudes of pre and post IPO attempt at WeWork along with the subsequent global pandemic without suffering serious attrition. The Euclid wifi tech ended up having some lasting usefulness in the WeWork technology stack as being able to understand realtime occupancy was required for reopening post-pandemic. We migrated most of our Scala code to Go and all of our AWS infrastructure to K8s
 #### Senior Engineering Manager, Presence <i>(Jan 2019 - Jul 2020)</i>
 
 ## [Euclid](https://www.wework.com/newsroom/wework-acquires-spatial-analytics-leader-euclid)
