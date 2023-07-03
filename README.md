@@ -5,6 +5,8 @@ I'm passionate about solving complex data problems with pragmatic solutions by b
 - I've managed pretty much every type of developer and love the challenge of getting all the pieces to work together
 - I love interacting cross functionally and up/down the organization from ICs to executives
 
+You can see my resume at [https://arnaudo.info](https://arnaudo.info)
+
 You can reach me at parnaudo@gmail.com, [Twitter](https://twitter.com/PaulArnaudo), or [LinkedIn](https://www.linkedin.com/in/paul-arnaudo/).
 <!-- 
 ## [Kinsa Health](https://kinsahealth.com/)
