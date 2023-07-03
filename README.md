@@ -6,7 +6,7 @@ I'm passionate about solving complex data problems with pragmatic solutions by b
 - I love interacting cross functionally and up/down the organization from ICs to executives
 
 You can reach me at parnaudo@gmail.com, [Twitter](https://twitter.com/PaulArnaudo), or [LinkedIn](https://www.linkedin.com/in/paul-arnaudo/).
-
+<!-- 
 ## [Kinsa Health](https://kinsahealth.com/)
 ### Technologies: Python | AWS (Amazon Web Services) | Airflow | SQL
 Joined Kinsa to scale and optimize their core ingestion and illness processing pipelines. Concurrently built a robust data org including a data engineering team, epidemiologist-focused analyst team and a data science team. Love building a surveillance system for illness while also finding cool uses for our aggregated illness data. The systems we built 10Xed Kinsa's recurring revenue from data to almost $5 million. Most of the infrastructure is written in Python.
