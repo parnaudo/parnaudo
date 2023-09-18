@@ -7,7 +7,7 @@ I'm passionate about solving complex data problems with pragmatic solutions by b
 
 You can see my resume at [https://arnaudo.info](https://arnaudo.info)
 
-You can reach me at parnaudo@gmail.com, [Twitter](https://twitter.com/PaulArnaudo), or [LinkedIn](https://www.linkedin.com/in/paul-arnaudo/).
+You can email me at paul@arnaudo.info, [Twitter](https://twitter.com/PaulArnaudo), or [LinkedIn](https://www.linkedin.com/in/paul-arnaudo/).
 <!-- 
 ## [Kinsa Health](https://kinsahealth.com/)
 ### Technologies: Python | AWS (Amazon Web Services) | Airflow | SQL
