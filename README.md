@@ -1,5 +1,5 @@
 # Summary
-I'm passionate about solving complex engineering problems with pragmatic solutions by building effective and cohesive organizations of developers. I like learning and working at any part of the stack, from devops to analytics and everything in between.
+I'm passionate about solving complex engineering problems with pragmatic solutions while also building effective and cohesive organizations of developers. I specialize in data processing and ingestion systems although  I like learning and working at any part of the stack, from devops to analytics and everything in between. 
 - I've built high throughput and reliable infrastructure in a plethora of languages
 - I've built multiple teams and organizations from single digit developers to acquisition and beyond
 - I've managed pretty much every type of developer and love the challenge of getting all the pieces to work together
